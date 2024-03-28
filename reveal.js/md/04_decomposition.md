@@ -1,12 +1,3 @@
----
-layout: page
-title: Decomposition
-order: 4
-session: 1
-length: 20
-toc: true
----
-
 ## Decomposition
 
 Decomposition refers to the process of breaking down a complex problem into smaller, simpler sub-problems. The idea is to solve each subproblem independently 

@@ -1,11 +1,3 @@
----
-layout: page
-title: Sudoku Task
-order: 9
-session: 2
-length: 75
-toc: true
----
 
 We are now going to put together everything we know to write a computer program to solve a sudoku. A sudoku is a 9x9 grid, where the goal is to assign 
 digits (from 1 to 9) to the empty cells so that every row, column, and sub-grid of size 3×3 contains exactly one instance of the digits from 1 to 9.

@@ -1,12 +1,3 @@
----
-layout: page
-title: Aligning the human solution with the computer
-order: 7
-session: 2
-length: 35
-toc: true
----
-
 ## Aligning the human solution with the computer
 
 In the two sessions so far we have covered the four pillars of computational thinking:
@@ -49,7 +40,7 @@ For loops are great for repetitive processes that occur a fixed number of times.
 
 ![flow chart of computational solution](../images/snakes_programme.png)
 
-For this programme to run we need to introduce some dice rolls. To simulate a dice, we sample from the numbers 1,2,3,4,5,6. 
+For this program to run we need to introduce some dice rolls. To simulate a dice, we sample from the numbers 1,2,3,4,5,6. 
 
 If you want to see this in code here is an example for R:
 
