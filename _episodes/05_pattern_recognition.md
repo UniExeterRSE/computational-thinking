@@ -9,7 +9,7 @@ toc: true
 
 ## Pattern recognition
 
-Pattern recognition involves finding the similarities or patterns among small, decomposed problems that can help us solve complex problems more efficiently. Once a problem has been broken down into simpler subproblems, there may be similarities among these that mean we do not have a write a solution twice. These patterns may exist both between and within individual problems.
+Pattern recognition involves finding the similarities or patterns among small, decomposed problems that can help us solve complex problems more efficiently. Once a problem has been broken down into simpler sub-problems, there may be similarities among these that mean we do not have a write a solution twice. These patterns may exist both between and within individual problems.
 
 Some times the redundancy is really obvious to spot.
 
