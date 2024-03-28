@@ -27,11 +27,11 @@ This a hybrid workshop run over 2 sessions. The [schedule can be found here](htt
 
 ## Upcoming course dates
 
-| Session name | Dates | Time  | Venue | Sign up link |
-| --- |--- |--- |--- | --- |
-|  | Friday 24th, 31st March | 1pm-4pm | Training Room 4, Old Library, Streatham Campus | Registration Closed |
+| Dates | Time  | Venue |
+|--- |--- |--- |
+| Friday 12th April, Firday 19th April 2024 | 1pm-4pm | Training Room 4, Old Library, Streatham Campus |
 
-Registration for this course is via [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=d10qkZj77k6vMhM02PBKU6c8tNVRoxhAjFFJWmm07JtUMjM5WTdQSzVJVUZMUE5HTEROSjNTNjI0TS4u).
+[Registration information](https://uniexeterrse.github.io/workshop-homepage/workshops.html)
 
 
 ## Start course

@@ -9,10 +9,10 @@ toc: true
 
 ## Decomposition
 
-Decomposition refers to the process of breaking down a complex problem into smaller, simpler subproblems. The idea is to solve each subproblem independently 
+Decomposition refers to the process of breaking down a complex problem into smaller, simpler sub-problems. The idea is to solve each subproblem independently 
 and then combine the solutions to obtain a solution to the original problem. This allows for the creation of more efficient and manageable algorithm by 
 reducing the complexity of the problem and making it easier to identify and solve individual parts. Equally, this makes your code more reusable as each function 
-solves a smaller issue which may be resuable elsewhere. 
+solves a smaller issue which may be reusable elsewhere. 
 
 When breaking the problem down it can be helpful to first of all identify the 
 * starting point

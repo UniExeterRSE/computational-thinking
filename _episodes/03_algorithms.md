@@ -31,7 +31,7 @@ Algorithms are essential tools but they are also really powerful. Apart for the 
 1. Reproducibility - having a standardized process means you can ensure the same steps on every execution.
 2. Efficiency - knowing the stages of an algorithm means you can remove redundancy/identify repetitive processes.
 3. Scalability - a clearly defined process can easily be extended to run on larger datasets or more complex problems.
-4. Sharable - efficient way to share a process across collegues, teams, departments or institutions.
+4. Sharable - efficient way to share a process across colleagues, teams, departments or institutions.
 5. Automation - once a solution has be defined you can identify how it can be automated. 
 
 

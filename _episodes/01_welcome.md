@@ -14,7 +14,7 @@ Welcome to this workshop on Computational Thinking. Over two sessions we are goi
 ## Introduction to Coding For Reproducible Research
 
 This workshop is offered as part of the [Coding For Reproducible Research Initiative](https://uniexeterrse.github.io/workshop-homepage/). 
-Our ambition is to offer a recurring annual series of workshops open to all staff and students, with opportunities for novices through to more experienced users, to expand their skillsets and position them to confidently perform the informatics research projects in an efficient and reproducible way. A key objective is that the framework we put in place ensures that the workshops delivered are fit for purpose, of a consistent high standard, that delivery is sustainable in the longer term, minimises the workload burden on those who facilitate them and can adapt and expand as new training needs are identified.
+Our ambition is to offer a recurring annual series of workshops open to all staff and students, with opportunities for novices through to more experienced users, to expand their skill-sets and position them to confidently perform the informatics research projects in an efficient and reproducible way. A key objective is that the framework we put in place ensures that the workshops delivered are fit for purpose, of a consistent high standard, that delivery is sustainable in the longer term, minimises the workload burden on those who facilitate them and can adapt and expand as new training needs are identified.
 
 Championed by and in partnership with
 
@@ -26,7 +26,7 @@ Championed by and in partnership with
 - EPSRC Hub for Quantitative Modelling in Healthcare
 - Translational Research Exchange @ Exeter (TREE)
 
-This workshop, and the others in the series, were put together by a series of working groups formed by researchers from across the University supported by Exeter's Research Software Engineering Group. The programme and workshops are under constant evolution. We appreciate your patience as we develop and test these materials and are grateful for your feedback which is a core component of this process. We also need to maintain accurate records of how many participants we have reached, so ask you to mark you attendence on the google spreadsheet.
+This workshop, and the others in the series, were put together by a series of working groups formed by researchers from across the University supported by Exeter's Research Software Engineering Group. The programme and workshops are under constant evolution. We appreciate your patience as we develop and test these materials and are grateful for your feedback which is a core component of this process. We also need to maintain accurate records of how many participants we have reached, so ask you to mark you attendance on the google spreadsheet.
 
 ## Workshop format
 
