@@ -69,14 +69,15 @@ y=input('Y = ')
 print(x+y)
 ```
 
-You can try this program using this online console: (https://tio.run/#python3)[https://tio.run/#python3]
+You can try this program using this online console: [https://tio.run/#python3](https://tio.run/#python3)
 
 Type the three lines of the program into the **Code** box.
 
 
 Type your numeric input into the **Input** box as shown below:
 
-![console_screenshot](../images/tioscreenshot.png)
+<img alt="console screenshot" src="../images/tioscreenshot.png" height=600>
+
 
 Was the output as you expected? Hmm... did we tell it what to do incorrectly? Or did we tell it to do the wrong thing?
 
@@ -133,7 +134,7 @@ Snakes and ladders is dice game where players advance along the board based on t
 
 Design a flowchart for the game. The total number of board squares should be 100, and the maximum number of squares a player is advanced or returned should be 30.
 
-If you want to create the flowchart online you can use [this website](https://draw.io/) (used to create the above flowchart). You will need to choose a location to save the output. We suggest OneDrive as this will link to your University OneDrive account. 
+If you want to create the flowchart online you can use [draw.io](https://draw.io/) 
 
 
 When designing an algorithm there are techniques we can use to aid us in the design of the solution to our problem and design of our algorithm:
@@ -142,4 +143,4 @@ When designing an algorithm there are techniques we can use to aid us in the des
 * pattern recognition
 * abstraction
 
-You may have implemented some of these already, knowingly or unknowingly, in the previous activity. We are going to cover each of these in the following sections.
+You may have implemented some of these already in the previous activity. We are going to cover each of these in the following sections.
