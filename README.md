@@ -28,3 +28,9 @@ This template was developed with help from this [tutorial](https://github.com/ev
 ### 27/10/2022
 
 * Spell checking reviewed, and markdown formatting improved.
+
+### 09/04/2024
+
+* Some edits to markdown. Pushed to https://uniexeterrse.github.io/computational-thinking
+
+* Reveal.js slides added. https://uniexeterrse.github.io/computational-thinking/reveal.js/index.html#/

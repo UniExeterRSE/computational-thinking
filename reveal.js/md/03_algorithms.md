@@ -1,4 +1,7 @@
-Real computational tasks can be complicated. To accomplish them you need to **THINK BEFORE YOU CODE**.
+### Real computational tasks can be complicated
+### To accomplish them you need to 
+
+## **THINK BEFORE YOU CODE**
 
 ### Activity
 In small groups discuss what you think the most important elements to think about before writing a program are. How do you approach the task?
@@ -12,19 +15,23 @@ Although we might think of algorithms as complicated things used by programmers,
 
 Examples of algorithms
 
-* The method of a carbonara recipe is an algorithm designed to assemble certain elements into a meal. 
-* Directions are an algorithm designed to navigate a person from A to B.
-* How to read a clock.
-* Wet laboratory protocol or or clinical trial protocol or data collection protocol
+* A recipe is an algorithm designed to assemble certain elements into a meal
+* Directions to navigate a person from A to B
+* How to read a clock
+* Laboratory protocol, clinical trial protocol, data collection protocol
 
 
-Algorithms are essential tools but they are also really powerful. Apart for the purpose of programming they can be advantageous for the following reasons
+### Benefits of algorithms
 
-1. Reproducibility - having a standardized process means you can ensure the same steps on every execution.
-2. Efficiency - knowing the stages of an algorithm means you can remove redundancy/identify repetitive processes.
-3. Scalability - a clearly defined process can easily be extended to run on larger datasets or more complex problems.
-4. Sharable - efficient way to share a process across colleagues, teams, departments or institutions.
-5. Automation - once a solution has be defined you can identify how it can be automated. 
+Algorithms are essential tools but they are also really powerful. 
+
+Apart for the purpose of programming they can be advantageous for the following reasons
+
+1. Reproducibility - a standardized process ensures the same steps on every execution
+2. Efficiency - identify repetitive processes and optimize, remove unnecessary steps
+3. Scalability - a clearly defined process can be extended to run on larger datasets
+4. Sharable - efficient way to share a process with others
+5. Automation - once a repeatable solution has be defined it can be automated
 
 
 ## Faulty design vs faulty implementation 
