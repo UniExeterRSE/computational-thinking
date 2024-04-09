@@ -15,7 +15,7 @@ In small groups discuss what you think the most important elements to think abou
 
 ## What is an algorithm? What is a program?
 
-An algorithm is a sequence of steps that solve a specific problem. A program is a sequence of instructions that tells the computer to do something. They differ from each other in that an algorithm will solve the problem while a program implements an algorithm in a form that a computer can execute. All computer programmes are based on algorithms.
+An algorithm is a sequence of steps that solve a specific problem. A program is a sequence of instructions that tells the computer to do something. They differ from each other in that an algorithm will solve the problem while a program implements an algorithm in a form that a computer can execute. All computer programs are based on algorithms.
 
 Although we might think of algorithms as complicated things used by programmers, in fact algorithms are used by people everyday to complete tasks. They range from incredibly simple to incredibly complex. 
 
@@ -74,9 +74,9 @@ y=input('Y = ')
 print(x+y)
 ```
 
-You can try this programme using this online console: (https://tio.run/#python3)[https://tio.run/#python3]
+You can try this program using this online console: (https://tio.run/#python3)[https://tio.run/#python3]
 
-Type the three lines of the programme into the **Code** box.
+Type the three lines of the program into the **Code** box.
 
 Type your numeric input into the **Input** box as shown below:
 
@@ -120,7 +120,7 @@ When you think about your algorithm as a series of steps, it become easy to see 
 
 ![navigation](../images/nav2.jpg)
 
-Hopefully here you can appreciate, that the reason you can programme multiple solutions to the same problem is because you can design multiple algorithms to solve the problem. 
+Hopefully here you can appreciate, that the reason you can program multiple solutions to the same problem is because you can design multiple algorithms to solve the problem. 
 
 -----
 

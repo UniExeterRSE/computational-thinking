@@ -24,7 +24,7 @@ When breaking the problem down it can be helpful to first of all identify the
 
 You can then start to fill in the gaps in between. Through the process of building your algorithm you may find that your start point isn't actually the start point, you need to go further back in the process. Similarly you might find your end goal needs to be redefined.
 
-For example in our tube navigation example crucially we are starting at Paddington TUBE Station, but our passenger is at Paddington RAIL station. Our algorithm is meaningless is they can't get to the TUBE station, so we need to add an additional step to navigate from the TRAIN station to the TUBE station. It is important to remember, that your computer knows absolutely nothing at the beginning of a new programme you need to tell it everything. 
+For example in our tube navigation example crucially we are starting at Paddington TUBE Station, but our passenger is at Paddington RAIL station. Our algorithm is meaningless is they can't get to the TUBE station, so we need to add an additional step to navigate from the TRAIN station to the TUBE station. It is important to remember, that your computer knows absolutely nothing at the beginning of a new program you need to tell it everything. 
 
 ![toEdgware](../images/directions.jpg)
 
