@@ -6,22 +6,33 @@ reducing the complexity of the problem and making it easier to identify and solv
 solves a smaller issue which may be reusable elsewhere. 
 
 
-When breaking the problem down it can be helpful to first of all identify the 
-* starting point
-    * what input do you have
-    * what are the initial conditions
-* end point. 
-    * what output would you ultimately want
-    * what is the end goal 
+When breaking the problem down it can be helpful to identify 
+
+### starting point
+
+ * what input do you have
+ * what are the initial conditions
+
+### end point
+
+ * what output would you ultimately want
+ * what is the end goal 
 
 You can then start to fill in the gaps in between. Through the process of building your algorithm you may find that your start point isn't actually the start point, you need to go further back in the process. Similarly you might find your end goal needs to be redefined.
 
 
-In our tube navigation example we are starting at Paddington TUBE Station, but our passenger is at Paddington RAIL station. Our algorithm is meaningless is they can't get to the TUBE station, so we need to add an additional step to navigate from the TRAIN station to the TUBE station. 
+<div class="container">
+<div class="reveal col">
+
+In our tube navigation example we are starting at Paddington TUBE Station, but our passenger is at Paddington RAIL station. Our algorithm is meaningless if they can't get to the TUBE station, so we need to add an additional step to navigate from the TRAIN station to the TUBE station. 
 
 It is important to remember, that your computer knows absolutely nothing at the beginning of a new program you need to tell it everything. 
 
-<img alt="to Edgeware" src="../images/directions.jpg" height=400>
+</div>
+<div class="reveal col">
+<img alt="to Edgeware" src="../images/directions.jpg" height=650>
+</div>
+</div>
 
 
 ### Activity: Caesar cypher 

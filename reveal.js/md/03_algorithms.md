@@ -106,13 +106,22 @@ print(x+y)
 Often what we think are issues with implementation are actually issues of algorithm. The claim there is something wrong with my code/script infers that the problem is syntax, when more likely the problem is with what you are asking the computer to do. This phrasing can be misleading as it fails to recognize the distinguish of the two possible sources of error.
 
 
-## Designing algorithms
+<div class="container">
+<div class="reveal col">
 
-A simple way to represent an algorithm can be through a flowchart. This can be a useful tool for visualizing and designing the algorithm. The flowchart below represents the instructions to direct someone from Paddington Station to Edgware on the Underground.
+<h2 class="reveal">Designing algorithms</h2>
 
+A simple way to represent an algorithm can be through a flowchart. This can be a useful tool for visualizing and designing the algorithm. This flowchart represents the instructions to direct someone from Paddington Station to Edgware on the Underground.
 
+</div>
+<div class="reveal col">
 <img alt="to Edgware" src="../images/directions.jpg" height=620>
+</div>
+</div>
 
+
+<div class="container">
+<div class="reveal col">
 
 This example is fairly straightforward as the steps are sequential and there is a single path through the network. You can think of this algorithm as a series of instructions. 
 
@@ -120,28 +129,54 @@ Alternatively the steps in the algorithm might need to be decisions or rules. In
 
 We can solve the same problem using a more complex flowchart that includes some decision making stages. 
 
-
+</div>
+<div class="reveal col">
 <img alt="to Edgware 2" src="../images/tube-flowchart-decision.jpg" height=620>
+</div>
+</div>
 
+
+<div class="container">
+<div class="reveal col">
 
 Most algorithms, especially complex ones, will need both components. 
-
 When you think about your algorithm as a series of steps, it become easy to see how you could extend it to solve more problems, or to make it more generalizable. For example, here is a single algorithm to navigate from Paddington to two different destinations. 
 
+<br>
+<br>
+
+Hopefully you now appreciate you can design multiple algorithms to solve the problem. 
+
+</div>
+<div class="reveal col">
 
 <img alt="navigation" src="../images/nav2.jpg" height=620>
 
-
-Hopefully here you can appreciate, that the reason you can code multiple solutions to the same problem is because you can design multiple algorithms to solve the problem. 
+</div>
+</div>
 
 
 ### Activity: Snakes, ladders & flowcharts
 
 Snakes and ladders is dice game where players advance along the board based on the roll of the dice. Upon landing on a square on the board, a player may either encounter a snake, where they are forced backwards a number of squares, a ladder, where they advance a number of squares, or nothing, in which case they remain on that square. A player wins when they reach the end of the board.
 
+<img alt="snakes-and-ladders" src="fig/snakes-and-ladders.png" height=400>
+
+
+<div class="container">
+<div class="reveal col">
+
 Design a flowchart for the game. The total number of board squares should be 100, and the maximum number of squares a player is advanced or returned should be 30.
 
 If you want to create the flowchart online you can use [draw.io](https://draw.io/) 
+
+</div>
+<div class="reveal col">
+
+<img alt="snakes-and-ladders" src="fig/snakes-and-ladders.png" height=500>
+
+</div>
+</div>
 
 
 When designing an algorithm there are techniques we can use to aid us in the design of the solution to our problem and design of our algorithm:
@@ -151,3 +186,5 @@ When designing an algorithm there are techniques we can use to aid us in the des
 * abstraction
 
 You may have implemented some of these already in the previous activity. We are going to cover each of these in the following sections.
+
+For a snakes-and-ladders puzzle see https://www.theguardian.com/science/2023/aug/21/can-you-solve-it-can-you-play-snakes-and-ladders-backwards
