@@ -11,6 +11,6 @@
 
 ### 14:30 Aligning the human solution with the computer
 
-### 15:00 Sudoku exercise
+### 15:00 Boggle exercise
 
 ### 15:50 END
