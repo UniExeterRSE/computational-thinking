@@ -3,8 +3,21 @@
 
 ## **THINK BEFORE YOU CODE**
 
-### Activity
-In small groups discuss what you think the most important elements to think about before writing a program are. How do you approach the task?
+
+## Activity
+
+### Poll - What do you do before coding?
+
+### SLI.DO # 3822 741 
+
+<a href="https://app.sli.do/event/j6wo4goB7auqmpFsWnV3JF">
+<img src="fig/QR Code for Computational Thinking April 2024.png">
+</a>
+
+
+### Poll results
+
+https://wall.sli.do/event/j6wo4goB7auqmpFsWnV3JF
 
 
 ##  Program or algorithm?

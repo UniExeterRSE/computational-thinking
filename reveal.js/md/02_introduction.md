@@ -1,9 +1,3 @@
-## Activity
-What do you think computational thinking is?
-
-[Click here to respond](https://app.sli.do/event/m6XYpC2e4mqGfAtAu8t4aW/embed/polls/b58bf595-5b35-45b0-b2e5-b813c4b186fe)
-
-
 ## What is computational thinking?
 
 When we program we write a series of commands in a language that our computer understands. We use a combination of functions and syntax to instruct the computer to enact a series of commands. When you sit down to program there is an assumption that you already know:
@@ -12,6 +6,13 @@ When we program we write a series of commands in a language that our computer un
 2. How it should do it
 
 This part, the design of what the program/code does is where computational thinking comes in.
+
+
+## Activity
+
+In groups discuss what computational thinking means to you. 
+
+What are your computational thinking strengths? 
 
 
 Computational thinking allows us to take a complex problem, understand what the problem is and develop possible solutions that we can instruct a computer to implement. It is implicit that a human also needs to understand the solution, as they are likely to be the one instructing the computer.
