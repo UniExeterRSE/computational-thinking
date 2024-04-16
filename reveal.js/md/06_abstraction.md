@@ -2,6 +2,14 @@
 
 Abstraction is about simplifying problems, making them easier to solve. The idea is to identify and then ignore information that is not essential.
 
+## Relation to programming
+
+Abstraction is an approach that helps solve problems. A core component of programming is about creating and composing abstractions, using objects and functions to represent and define the solution. 
+
+Abstraction works by establishing a level of complexity at which a person interacts with a system, suppressing the more complex details below the current level. Abstraction allows programmers to define objects and functions that can interact with each other in a predictable way without having to understand the underlying details of their implementation. 
+
+When you see a simple interface covering a more complex implementation, this is abstraction. 
+
 
 ## Example - the London tube map
 
@@ -14,16 +22,18 @@ The problem the tube map is designed to solve is to help people navigate the und
 5. which stations have onward connections to other transport modes (e.g. National Rail)
 6. which stations have step free access
 
-Information that is not essential to this problem is the geographical relativity of each station to each other. This information has been deliberately excluded, as it does not help solve the specific problem of how to navigate London by tube. The tube map would not be appropriate to navigate between the stations above ground by foot, bike or road. 
+
+<img src="fig/tube-geography.jpg" height=500>
+
+Information that is not essential to this problem is the precise location of each station. So it is removed...
 
 
-## Relation to programming
+<img src="fig/tube-map.jpg" height=600>
 
-Abstraction is an approach that helps solve problems. A core component of programming is about creating and composing abstractions, using objects and functions to represent and define the solution. 
 
-Abstraction works by establishing a level of complexity at which a person interacts with a system, suppressing the more complex details below the current level. Abstraction allows programmers to define objects and functions that can interact with each other in a predictable way without having to understand the underlying details of their implementation. 
+When on a particular line, even less information is required...
 
-When you see a simple interface covering a more complex implementation, this is abstraction. 
+<img src="fig/hammersmith-line-2024.png" height=400>
 
 
 ## Example - motor car

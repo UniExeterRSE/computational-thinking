@@ -3,11 +3,29 @@
 
 We are now going to put together everything we know to design a software model of a popular English language word game.
 
-The game of Boggle uses a set of 16 special dice with letters on each face, and a combined shaker and playing grid in a 4 x 4 format.
+<div class="container">
+<div class="reveal col">
 
-The aim of the game is ...
+### Understanding the game
 
-Longer words have higher scores.
+#### Equipment
+The equipment includes sixteen letter cubes, a shaker-tray and a timer.
+
+#### Object
+The object is to list, within the time limit, as many correct words as possible. Words are formed from the assortment of letters arranged in the cube tray.
+
+</div>
+<div class="reveal col">
+<img alt="boggle box" src="fig/boggle-box.png" height="440">
+</div>
+</div>
+
+
+### Rules
+Words are formed by the use of adjoining letters. Letters must join in the proper sequence to spell a word. They may join horizontally, vertically or diagonally, to the left, right or up and down. But no one letter cube may be used more than once within a single word.
+
+<img alt="boggle right" src="fig/boggle-right.png" height="410">
+<img alt="boggle wrong" src="fig/boggle-wrong.png" height="250">
 
 
 You might prefer to design your software in a visual style, perhaps as flow charts, or you could write pseudo-code, or an outline in a coding language such as R or Python.

@@ -7,6 +7,7 @@ We are grateful to the workshop leaders and helpers for supporting the delivery.
 
 If you have benefited in any way from this course and want to support its long term sustainability then please take the time to complete our feedback survey, recommend it to your colleagues, and enthuse about it to your senior leadership team. The programme and workshops are under constant evolution, and we are grateful for your feedback which is a core component of this process.
 
+
 ## Follow up
 
 Course notes and resources are available all year round for you to revisit and share as you need.
