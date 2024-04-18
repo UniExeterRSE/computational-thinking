@@ -13,7 +13,7 @@
 3. Scalability - a clearly defined process can be extended to run on larger datasets
 4. Sharable - efficient way to share a process with others
 5. Automation - once a repeatable solution has be defined it can be automated
-
+  
 </div>
 <div class="reveal col">
 <img alt="to Edgware" src="../images/directions.jpg" height=620>
@@ -35,4 +35,3 @@ Pnrfne pvcure? V zhpu cersre Pnrfne fnynq!
 Look for opportunities to repeat, or re-use, existing fragments
 
 <img alt="coin" src="../images/coin.png" height=300>
-
