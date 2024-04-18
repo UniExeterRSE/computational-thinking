@@ -28,7 +28,20 @@ Words are formed by the use of adjoining letters. Letters must join in the prope
 <img alt="boggle wrong" src="fig/boggle-wrong.png" height="250">
 
 
-You might prefer to design your software in a visual style, perhaps as flow charts, or you could write pseudo-code, or an outline in a coding language such as R or Python.
+### Games
+
+<img alt="boggle A" src="fig/GameA.png" height="400">
+<img alt="boggle B" src="fig/GameB.png" height="400">
+
+* <a href="fig/BoggleA.pdf">Boggle game A</a>
+* <a href="fig/BoggleB.pdf">Boggle game B</a>
+
+
+### Software design exercise
+
+Use computational thinking techniques to understand the characteristics of the Boggle game.  Use this understanding to design a software system that can generate and solve Boggle puzzles.  
+
+You might choose to design your software in a visual style, perhaps as flow charts, or you could write pseudo-code, or an outline in a coding language such as R or Python.
 
 The aim is not to create a working program, but rather to express the key design decisions in a way that can be discussed and shared.
 
